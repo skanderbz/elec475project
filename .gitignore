@@ -1,0 +1,58 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# -------------------------
+# Project-specific
+# -------------------------
+
+# COCO dataset (VERY large)
+data/
+data/*
+
+
+# Cache files (CLIP text embeddings)
+*.pt
+*.pth
+cache/
+coco2014/cache/
+*.cache
+
+# logs
+logs/
+*.log
+
+# -------------------------
+# PyTorch / HuggingFace
+# -------------------------
+torch_cache/
+transformers_cache/
+.cache/
+.huggingface/
+
+# -------------------------
+# VSCode
+# -------------------------
+.vscode/
+*.code-workspace
+
+# -------------------------
+# OS junk files
+# -------------------------
+Thumbs.db
+.DS_Store
+desktop.ini

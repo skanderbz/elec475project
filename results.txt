@@ -1,0 +1,58 @@
+TRIAL 1: Test Run
+File: 5kS1kV3E128B
+Optimizer: adam
+Train Samples: 5k
+Epochs: 3
+Validation Samples: 1k
+Batch size: 128
+Learning Rate: 1e-4
+Decay:1e-4
+Best Val Loss: 2.3463
+Time: 27 Mins
+-------------------------------------------------
+TRIAL 2: Trial 1 with 10 E
+File:5kS1kV10E128B
+Optimizer:Adam
+Train Samples:5000
+Validation Samples: 1000
+Batch size: 128
+Learning Rate: 1e-4
+Decay:1e-4
+Best Val Loss:
+Time:
+
+-------------------------------------------------
+TRIAL 3: More sample data
+File:
+Optimizer:
+Train Samples:
+Validation Samples:
+Batch size:
+Learning Rate:
+Decay:
+Best Val Loss:
+Time:
+
+-------------------------------------------------
+TRIAL 4: Fast, aggresive learning
+File:
+Optimizer:
+Train Samples:
+Validation Samples:
+Batch size:
+Learning Rate:
+Decay:
+Best Val Loss:
+Time:
+
+-------------------------------------------------
+TRIAL X:
+File:
+Optimizer:
+Train Samples:
+Validation Samples:
+Batch size:
+Learning Rate:
+Decay:
+
+-------------------------------------------------
