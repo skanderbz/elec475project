@@ -18,18 +18,18 @@ Validation Samples: 1000
 Batch size: 128
 Learning Rate: 1e-4
 Decay:1e-4
-Best Val Loss:
-Time:
+Best Val Loss: 2.3127
+Time:87.8 mins
 
 -------------------------------------------------
 TRIAL 3: More sample data
-File:
-Optimizer:
-Train Samples:
-Validation Samples:
-Batch size:
-Learning Rate:
-Decay:
+File: 15kS5kV10E128B
+Optimizer: Adam
+Train Samples: 15k
+Validation Samples: 5k
+Batch size: 128
+Learning Rate: 1e-4
+Decay: 1e-4
 Best Val Loss:
 Time:
 

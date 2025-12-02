@@ -22,9 +22,9 @@ from config import (
     VAL_CACHE_FILE,
 )
 
-MODELNAME = "5kS1kV10E128B"
-SAMPLES = 5000
-VALSAMPLES = 1000
+MODELNAME = "15kS5kV10E128B"
+SAMPLES = 15000
+VALSAMPLES = 5000
 
 # ----------------- CLIP Image Transform ----------------- #
 
