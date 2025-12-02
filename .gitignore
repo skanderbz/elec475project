@@ -12,10 +12,6 @@ venv/
 ENV/
 env/
 
-# Jupyter and IPython
-.ipynb_checkpoints/
-*.ipynb
-
 # -------------------------
 # Project-specific
 # -------------------------
@@ -27,7 +23,6 @@ data/*
 
 # Cache files (CLIP text embeddings)
 *.pt
-*.pth
 cache/
 coco2014/cache/
 *.cache

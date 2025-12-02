@@ -30,8 +30,8 @@ Validation Samples: 5k
 Batch size: 128
 Learning Rate: 1e-4
 Decay: 1e-4
-Best Val Loss:
-Time:
+Best Val Loss: 2.2080
+Time: 245.5 mins
 
 -------------------------------------------------
 TRIAL 4: Fast, aggresive learning
